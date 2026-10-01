@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618888998332",
+    "project_id": "engineer-job-portal",
+    "storage_bucket": "engineer-job-portal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618888998332:android:697c88de4efe0ce2d34fb9",
+        "android_client_info": {
+          "package_name": "com.example.engineerjobportal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIeMPKz1izJ-mwqTXsg4cetNAfoE58nqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

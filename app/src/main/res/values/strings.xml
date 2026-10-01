@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">EngineerJobPortal</string>
+    <string name="app_logo_text">EJP</string>
+    <string name="app_title">Engineer Job Portal</string>
+    <string name="app_tagline">Connecting Engineers with Recruiters</string>
+
+    <string name="welcome_to">Welcome to</string>
+    <string name="welcome_subtitle">Find jobs • Connect with recruiters • Build your career</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+
+    <string name="welcome_user">Welcome 👋</string>
+    <string name="home_subtitle">Find your dream engineering job</string>
+    <string name="search_jobs_hint">Search Jobs</string>
+    <string name="search">Search</string>
+    <string name="job_categories">Job Categories</string>
+    <string name="software_engineer">Software Engineer</string>
+    <string name="electrical_engineer">Electrical Engineer</string>
+    <string name="mechanical_engineer">Mechanical Engineer</string>
+    <string name="civil_engineer">Civil Engineer</string>
+    <string name="featured_jobs">Featured Jobs</string>
+    <string name="featured_jobs_list">• Software Developer - TCS\n• Java Developer - Infosys\n• Electrical Engineer - Siemens\n• Mechanical Engineer - Bosch\n• AI Engineer - Accenture</string>
+    <string name="my_profile">My Profile</string>
+    <string name="admin_manage_applications">Admin - Manage Applications</string>
+    <string name="home">Home</string>
+    <string name="applications">Applications</string>
+    <string name="profile">Profile</string>
+
+    <string name="manage_applications">Manage Applications</string>
+    <string name="admin_subtitle">Review applicants and make recruitment decisions</string>
+
+    <string name="my_applications">My Applications</string>
+    <string name="my_applications_subtitle">Track your submitted job applications</string>
+
+    <string name="job_application">Job Application</string>
+    <string name="job_title">Job Title</string>
+    <string name="full_name">Full Name</string>
+    <string name="enter_full_name">Enter full name</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="qualification">Qualification</string>
+    <string name="enter_qualification">Enter qualification</string>
+    <string name="experience">Experience</string>
+    <string name="enter_experience">Enter experience</string>
+    <string name="skills">Skills</string>
+    <string name="enter_skills">Enter your skills</string>
+    <string name="certifications">Certifications</string>
+    <string name="enter_certifications">Enter your certifications</string>
+    <string name="cover_letter">Cover Letter</string>
+    <string name="write_cover_letter">Write a short cover letter</string>
+    <string name="submit_application">Submit Application</string>
+
+    <string name="job_details">Job Details</string>
+    <string name="sample_software_developer">Software Developer</string>
+    <string name="sample_company">Company: TCS</string>
+    <string name="sample_location">Location: Chennai</string>
+    <string name="sample_salary">Salary: 5 LPA</string>
+    <string name="sample_experience">Experience: 0&#8211;2 years</string>
+    <string name="job_description">Job Description</string>
+    <string name="apply_now">Apply Now</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="dont_have_account">Don\'t have an account? Create Account</string>
+
+    <string name="hint_qualification_example">Example: B.E CSE</string>
+    <string name="hint_experience_example">Example: Fresher / 2 years</string>
+    <string name="hint_skills_example">Example: Java, Python, Android, Firebase</string>
+    <string name="hint_certifications_example">Example: NPTEL, AWS, Java Certification</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="logout">Logout</string>
+
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_account">Already have an account? Login</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F7FA">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <!-- PAGE TITLE -->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/my_applications"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textColor="#1565C0"
+            android:layout_marginBottom="6dp" />
+
+        <!-- SUBTITLE -->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/my_applications_subtitle"
+            android:textSize="15sp"
+            android:textColor="#6B7280"
+            android:layout_marginBottom="20dp" />
+
+        <!-- APPLICATIONS CONTAINER -->
+
+        <LinearLayout
+            android:id="@+id/applicationsContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+
+        <!-- NO APPLICATIONS -->
+
+        <TextView
+            android:id="@+id/tvNoApplications"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="16sp"
+            android:textColor="#555555"
+            android:gravity="center"
+            android:padding="20dp"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+</ScrollView>
